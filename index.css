@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:19:41
+    Author     : cdubois
+*/
+
+body {
+    background-color: yellow;
+}
+
+div {
+    text-align: center;
+}
+#Titre{
+    background-color: orange;
+    color: blueviolet;
+    font-family: serif;
+    font-size: 20px;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+
+#boite{
+    border: 15px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 25px;
+    width: 300px;
+    height: 50px;
+    background-color: aqua;
+}
+
+.important{
+    margin: 30px;
+    padding: 5px;
+    background-color: burlywood;
+    border: 1px black solid;
+    text-align: center;
+    width: 100px;
+}
+
+#Point{
+    padding: 20px;
+    list-style-type: circle;
+    background-color: cyan;
+    border-radius: 30px;
+    margin: 100px;
+    width: 150px;
+}
