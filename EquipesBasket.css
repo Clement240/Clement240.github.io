@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:19:41
+    Author     : cdubois
+*/
+html {
+    background-color: white
+}
+.Titre{
+    text-align: center ;
+    background-color: rgb(0, 0, 0) ;
+    padding: 10px ;
+    height: 35px;
+    margin-left: auto ;
+    margin-right: auto ;
+    color: white ;
+}
+
+.boiteTitre{
+    overflow: hidden ;
+    background-color: rgb(0, 0, 0) ;
+    left: 0px ;
+    top : 0px ;
+    position : fixed ;
+ 
+}
