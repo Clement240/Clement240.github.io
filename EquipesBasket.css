@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:19:41
+    Author     : cdubois
+*/
+body {
+    margin: 0 ;
+    background-image: url(Fond.jpg) ;
+}
+.titre{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    position: fixed ;
+    color: white ;
+    background-color: rgb(48, 48, 48) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ; 
+}
+
+.EP{
+    font-size: 170%;
+    left: 30px ;
+    top: 250px ;
+    position: fixed ;
+    color: white ;
+    background-color: rgb(48, 48, 48) ;
+    height: 225px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+}
+
+.Lien{
+    list-style-type: none ;
+    font-size: 200% ;
+    left: 500px ;
+    top: 250px ;
+    position: fixed ;
+    color: white ;
+    background-color: rgb(48, 48, 48) ;
+    height: 270px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ;
+}
+
+.NBAlogo{
+    width: 15% ;
+    margin-top: 250px ;
+    margin-left: 960px ;
+    border-radius: 20px ;
+}
+
+.Terrain{
+    width: 25% ;
+    margin-left: -1185px ;
+    border-radius: 20px ;
+}
+
+.DefNBA{
+    font-size: 140% ;
+    right: 30px ;
+    top: 250px ;
+    position: fixed ;
+    color: white ;
+    background-color: rgb(48, 48, 48) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
+
