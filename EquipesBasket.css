@@ -1,0 +1,316 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:19:41
+    Author     : cdubois
+*/
+.FondAccueil {
+    margin: 0 ;
+    background-image: url(Fond.jpg) ;
+}
+.titre{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    color: white ;
+    background-color: rgb(34, 33, 33) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ; 
+}
+
+.EP{
+    font-size: 170%;
+    margin-top: 100px ;
+    margin-left: 100px ;
+    color: white ;
+    background-color: rgb(34, 33, 33) ;
+    height: 225px ;
+    width: 26% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+}
+
+.VidéoHommage{
+    width: 40% ;
+    text-align: center;
+    font-size: 170%;
+    color: white ;
+    background-color: rgb(34, 33, 33) ;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    margin-top: 10px;
+    left: 15px;
+}
+
+.NBAlogo{
+    width: 15% ;
+    border-radius: 20px ;
+    position: relative;
+    right: -650px ;
+    top: -400px ;
+}
+
+.DefNBA{
+    font-size: 140% ;
+    position: relative;
+    right: -900px ;
+    top: -850px ;
+    color: white ;
+    background-color: rgb(34, 33, 33) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
+
+.FondLakers{
+    margin: 0 ;
+    background-color: rgb(85, 37, 130) ;
+}
+
+.titreLakers{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    color: white ;
+    background-color: rgb(253, 185, 39) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ; 
+}
+
+.Lakerslogo{
+    width: 30% ;
+    border-radius: 20px ;
+    position: relative;
+    top: 50px ;
+    left: 900px ;
+}
+
+.LakersMaillot{
+    width: 23% ;
+    border-radius: 20px ;
+    position: relative;
+    top: -30px ;
+    margin-top: 100px;
+    left: 50px ;
+}
+
+.JoueursLakers{
+    border-style: double;
+    text-align: center;
+    font-size: 200% ;
+    width: 65%;
+    color: white ;
+    background-color: rgb(253, 185, 39) ;
+    border-radius: 20px ;
+    left: -100px ;
+    top: 25px ;
+}
+
+.DefLakers{
+    font-size: 140% ;
+    position: relative;
+    left: 900px ;
+    bottom: 400px ;
+    color: white ;
+    background-color: rgb(253, 185, 39) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
+
+.FondSpurs{
+    margin: 0 ;
+    background-color: rgb(34, 33, 33) ;
+}
+.titreSpurs{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    color: white ;
+    background-color: rgb(71, 71, 71) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ;
+}
+
+.Spurslogo{
+    width: 30% ;
+    border-radius: 20px ;
+    position: relative;
+    top: 50px ;
+    left: 900px ;
+}
+
+.SpursMaillot{
+    width: 23% ;
+    border-radius: 20px ;
+    position: relative;
+    top: -30px ;
+    margin-top: 100px;
+    left: 50px ;
+}
+
+.JoueursSpurs{
+    border-style: double;
+    text-align: center;
+    font-size: 200% ;
+    width: 65%;
+    color: white ;
+    background-color: rgb(71, 71, 71) ;
+    border-radius: 20px ;
+    left: -100px ;
+    top: 25px ;
+}
+
+.DefSpurs{
+    font-size: 140% ;
+    position: relative;
+    left: 900px ;
+    bottom: 400px ;
+    color: white ;
+    background-color: rgb(71, 71, 71) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
+
+.FondBulls{
+    margin: 0 ;
+    background-color: rgb(241, 12, 12) ;
+}
+.titreBulls{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ;
+}
+
+.Bullslogo{
+    width: 30% ;
+    border-radius: 20px ;
+    position: relative;
+    top: 50px ;
+    left: 900px ;
+}
+
+.BullsMaillot{
+    width: 23% ;
+    border-radius: 20px ;
+    position: relative;
+    top: -30px ;
+    left: 50px ;
+}
+
+.JoueursBulls{
+    border-style: double;
+    text-align: center;
+    font-size: 200% ;
+    width: 65%;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    border-radius: 20px ;
+    left: -100px ;
+    top: 25px ;
+}
+
+.DefBulls{
+    font-size: 140% ;
+    position: relative;
+    left: 900px ;
+    bottom: 400px ;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
+
+.FondHeat{
+    margin: 0 ;
+    background-color: rgb(152, 0, 46) ;
+}
+.titreHeat{
+    font-size: 170%;
+    top: 0px ;
+    text-align: center ;
+    margin-left: 10px ;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    height: 160px ;
+    width: 97% ;
+    padding: 15px ;
+    border-radius: 120px ;
+}
+
+.Heatlogo{
+    width: 23% ;
+    border-radius: 20px ;
+    position: relative;
+    top: 50px ;
+    left: 900px ;
+}
+
+.HeatMaillot{
+    width: 23% ;
+    border-radius: 20px ;
+    position: relative;
+    top: -30px ;
+    left: 50px ;
+}
+
+.JoueursHeat{
+    border-style: double;
+    text-align: center;
+    font-size: 200% ;
+    width: 65%;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    border-radius: 20px ;
+    left: -100px ;
+    top: 25px ;
+}
+
+.DefHeat{
+    font-size: 140% ;
+    position: relative;
+    left: 900px ;
+    bottom: 400px ;
+    color: black ;
+    background-color: rgb(255, 255, 255) ;
+    height: 600px ;
+    width: 23% ;
+    padding: 15px ;
+    border-radius: 20px ; 
+    line-height: 2 ;
+    overflow: auto ;
+}
